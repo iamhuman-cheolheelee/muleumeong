@@ -1,0 +1,651 @@
+[
+ {
+  "id": "D01",
+  "q": "2024년 12월 기준으로 제주에 사는 외국인 몇 명이었어?",
+  "type": "answerable",
+  "datasets": [
+   90001
+  ],
+  "answer": {
+   "value": 27990,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D02",
+  "q": "제주 세대수 2019년 1월이랑 2025년 6월 비교하면 늘었어 줄었어?",
+  "type": "answerable",
+  "datasets": [
+   90001
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": "증가"
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D03",
+  "q": "2024년 말 제주시랑 서귀포시 합쳐서 65세 넘은 어르신 몇 명이야?",
+  "type": "answerable",
+  "datasets": [
+   74
+  ],
+  "answer": {
+   "value": 126985,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D04",
+  "q": "2025년 말 기준 65세 이상 인구가 제일 많은 읍면동은 어디야?",
+  "type": "answerable",
+  "datasets": [
+   73
+  ],
+  "answer": {
+   "value": 7994,
+   "unit": "명",
+   "top": "애월읍",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D05",
+  "q": "2025년 말 제주에 100세 넘은 분들 도 전체로 몇 명 계셔?",
+  "type": "answerable",
+  "datasets": [
+   73
+  ],
+  "answer": {
+   "value": 197,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D06",
+  "q": "제주에 등록된 외국인 중 어느 나라 사람이 제일 많아? (중국 한국계는 따로 치고)",
+  "type": "answerable",
+  "datasets": [
+   69
+  ],
+  "answer": {
+   "value": 7314,
+   "unit": "명",
+   "top": "중국",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D07",
+  "q": "서귀포시에 등록된 베트남 사람 남녀 합쳐서 몇 명이야?",
+  "type": "answerable",
+  "datasets": [
+   69
+  ],
+  "answer": {
+   "value": 2043,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D08",
+  "q": "제주 등록외국인(국적취득자 빼고) 중에 어느 연령대가 제일 많아?",
+  "type": "answerable",
+  "datasets": [
+   70
+  ],
+  "answer": {
+   "value": 11296,
+   "unit": "명",
+   "top": "30~39",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D09",
+  "q": "자료에 있는 해 중에 제주 합계출산율이 제일 높았던 해는 언제야?",
+  "type": "answerable",
+  "datasets": [
+   884
+  ],
+  "answer": {
+   "value": 1.867,
+   "unit": null,
+   "top": "1994",
+   "direction": null
+  },
+  "tolerance_pct": 1
+ },
+ {
+  "id": "D10",
+  "q": "2025년에 제주 온 대만 관광객 몇 명이야?",
+  "type": "answerable",
+  "datasets": [
+   582
+  ],
+  "answer": {
+   "value": 233590,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D11",
+  "q": "2024년에서 2025년 사이에 제주 찾은 내국인 관광객 늘었어 줄었어?",
+  "type": "answerable",
+  "datasets": [
+   582
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": "감소"
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D12",
+  "q": "2025년 제주 온 외국인 관광객 중에 어느 나라가 제일 많았어? (기타 제외)",
+  "type": "answerable",
+  "datasets": [
+   582
+  ],
+  "answer": {
+   "value": 1588107,
+   "unit": "명",
+   "top": "중국",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D13",
+  "q": "우도해양도립공원 2019년 한 해 입장객 총 몇 명이었어?",
+  "type": "answerable",
+  "datasets": [
+   1343
+  ],
+  "answer": {
+   "value": 1837545,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D14",
+  "q": "2025년 제주공항 국내선 여객, 도착·출발 합쳐서 몇 명이야?",
+  "type": "answerable",
+  "datasets": [
+   328
+  ],
+  "answer": {
+   "value": 26777702,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D15",
+  "q": "제주공항 국제선 승객(도착·출발 합계)이 가장 적었던 해는 언제야?",
+  "type": "answerable",
+  "datasets": [
+   328
+  ],
+  "answer": {
+   "value": 4781,
+   "unit": "명",
+   "top": "2021",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D16",
+  "q": "2024년 제주종합터미널 이용객 몇 명이었어?",
+  "type": "answerable",
+  "datasets": [
+   307
+  ],
+  "answer": {
+   "value": 1568556,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D17",
+  "q": "2025년 제주에서 교통사고 1년 동안 몇 건 났어?",
+  "type": "answerable",
+  "datasets": [
+   90002
+  ],
+  "answer": {
+   "value": 3929,
+   "unit": "건",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D18",
+  "q": "2025년에 교통사고가 제일 적었던 달은 몇 월이야?",
+  "type": "answerable",
+  "datasets": [
+   90002
+  ],
+  "answer": {
+   "value": 198,
+   "unit": "건",
+   "top": "2월",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D19",
+  "q": "국립제주박물관 2019년 방문객, 내국인·외국인 합쳐서 얼마나 돼?",
+  "type": "answerable",
+  "datasets": [
+   90003
+  ],
+  "answer": {
+   "value": 363517,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D20",
+  "q": "2018년 제주 렌터카 등록대수 평균이 몇 대였어?",
+  "type": "answerable",
+  "datasets": [
+   90004
+  ],
+  "answer": {
+   "value": 20270,
+   "unit": "대",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D21",
+  "q": "제주연구원 관광시장동향 기준으로 관광객이 제일 많았던 해는?",
+  "type": "answerable",
+  "datasets": [
+   90004
+  ],
+  "answer": {
+   "value": 15852980,
+   "unit": "명",
+   "top": "2016",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D22",
+  "q": "2024년 제주 신선식품 물가지수(2020=100) 얼마였어?",
+  "type": "answerable",
+  "datasets": [
+   1332
+  ],
+  "answer": {
+   "value": 125.6,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 1
+ },
+ {
+  "id": "D23",
+  "q": "2024년에 제주로 귀농한 가구 몇 가구야?",
+  "type": "answerable",
+  "datasets": [
+   1334
+  ],
+  "answer": {
+   "value": 140,
+   "unit": "가구",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D24",
+  "q": "2024년 제주 다문화가구 수 알려줘",
+  "type": "answerable",
+  "datasets": [
+   1324
+  ],
+  "answer": {
+   "value": 6433,
+   "unit": "가구",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D25",
+  "q": "제주 흡연율 2011년이랑 2024년 비교하면 어떻게 바뀌었어?",
+  "type": "answerable",
+  "datasets": [
+   1325
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": "감소"
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D26",
+  "q": "2015년에 제주로 순유입된 인구 몇 명이었어?",
+  "type": "answerable",
+  "datasets": [
+   978
+  ],
+  "answer": {
+   "value": 14257,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D27",
+  "q": "2024년 말 서귀포시 노령화지수 얼마야?",
+  "type": "answerable",
+  "datasets": [
+   193
+  ],
+  "answer": {
+   "value": 197.31,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 1
+ },
+ {
+  "id": "D28",
+  "q": "2024년 제주에 국제크루즈 타고 온 관광객 총 몇 명이야?",
+  "type": "answerable",
+  "datasets": [
+   319
+  ],
+  "answer": {
+   "value": 199423,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D29",
+  "q": "2022년 5월 서귀포시 직영관광지 중 관람객 제일 많았던 곳은?",
+  "type": "answerable",
+  "datasets": [
+   1295
+  ],
+  "answer": {
+   "value": 106959,
+   "unit": "명",
+   "top": "중문대포해안주상절리대",
+   "direction": null
+  },
+  "tolerance_pct": 0,
+  "top_alias": [
+   "중문대포주상절리"
+  ],
+  "note": "원본(1295) 열 이름은 중문대포주상절리 — 같은 곳의 두 표기"
+ },
+ {
+  "id": "D30",
+  "q": "2024년 제주 실업률 몇 %였어?",
+  "type": "answerable",
+  "datasets": [
+   1351
+  ],
+  "answer": {
+   "value": 2.3,
+   "unit": "%",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 1
+ },
+ {
+  "id": "D31",
+  "q": "2030년 제주 인구는 몇 명쯤 될 것 같아?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D32",
+  "q": "2025년 제주에서 교통사고로 돌아가신 분 몇 명이야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D33",
+  "q": "2024년 애월읍에 사는 외국인 몇 명이야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D34",
+  "q": "1985년 제주 합계출산율 알려줘",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D35",
+  "q": "우도 입장객 2026년 7월에 몇 명이었어?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D36",
+  "q": "제주공항 2012년 국내선 여객 수 알려줘",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D37",
+  "q": "2024년 제주 렌터카 등록대수 평균 몇 대야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D38",
+  "q": "서귀포 시외버스터미널 2025년 이용객 몇 명이야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D39",
+  "q": "제주종합터미널 노선별로 이용객 제일 많은 노선이 어디야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D40",
+  "q": "2024년 제주 국제크루즈 관광객 중 국적별로 중국인 승객은 몇 명이야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D41",
+  "q": "제주 이주하면 어느 동네가 살기 제일 좋아?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D42",
+  "q": "2023년 한림읍 다문화가구 수 알려줘",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D43",
+  "q": "제주시 연동에 사는 김철수 씨 나이가 몇 살이야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D44",
+  "q": "2024년 제주 공항 택시 대기시간 평균이 얼마나 돼?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "D45",
+  "q": "내년에 제주 물가 오를까?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ }
+]

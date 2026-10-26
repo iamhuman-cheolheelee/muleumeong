@@ -1,0 +1,640 @@
+[
+ {
+  "id": "H01",
+  "q": "2020년 12월 한 달 동안 제주에서 태어난 아기는 몇 명이야?",
+  "type": "answerable",
+  "datasets": [
+   900
+  ],
+  "answer": {
+   "value": 305,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H02",
+  "q": "2019년 1년 동안 제주도에서 혼인신고가 총 몇 건 있었어? 월별 합계로 알려줘",
+  "type": "answerable",
+  "datasets": [
+   900
+  ],
+  "answer": {
+   "value": 3358,
+   "unit": "건",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H03",
+  "q": "2020년 9월 기준 제주에 등록된 승용차는 사업용, 비사업용 합쳐서 몇 대야?",
+  "type": "answerable",
+  "datasets": [
+   915
+  ],
+  "answer": {
+   "value": 518685,
+   "unit": "대",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H04",
+  "q": "2020년 9월 제주 승용 전기차는 모두 몇 대 등록돼 있었어?",
+  "type": "answerable",
+  "datasets": [
+   915
+  ],
+  "answer": {
+   "value": 18961,
+   "unit": "대",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H05",
+  "q": "2021년 남원읍 노지 조생 온주밀감 생산량이 얼마나 돼?",
+  "type": "answerable",
+  "datasets": [
+   1294
+  ],
+  "answer": {
+   "value": 87269.9,
+   "unit": "톤",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H06",
+  "q": "서귀포시에서 2021년에 감귤 재배면적(전 품종 합계)이 제일 넓은 읍면동은 어디야?",
+  "type": "answerable",
+  "datasets": [
+   1294
+  ],
+  "answer": {
+   "value": 4079.8,
+   "unit": "ha",
+   "top": "남원읍",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H07",
+  "q": "서귀포시가 직영하는 천지연폭포에 2019년 한 해 동안 관람객이 몇 명 다녀갔어?",
+  "type": "answerable",
+  "datasets": [
+   1295
+  ],
+  "answer": {
+   "value": 1323193,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H08",
+  "q": "2022년 5월 감귤박물관 관람객 수 알려줘",
+  "type": "answerable",
+  "datasets": [
+   1295
+  ],
+  "answer": {
+   "value": 7271,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H09",
+  "q": "작년 말 기준 자료에서 2024년 제주 실업률은 몇 퍼센트였어?",
+  "type": "answerable",
+  "datasets": [
+   1351
+  ],
+  "answer": {
+   "value": 2.3,
+   "unit": "%",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H10",
+  "q": "제주 취업자 수가 2020년에서 2022년 사이에 늘었어, 줄었어?",
+  "type": "answerable",
+  "datasets": [
+   1351
+  ],
+  "answer": {
+   "value": null,
+   "unit": "명",
+   "top": null,
+   "direction": "up"
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H11",
+  "q": "2023년 제주 청년고용률 얼마였지?",
+  "type": "answerable",
+  "datasets": [
+   1351
+  ],
+  "answer": {
+   "value": 46.4,
+   "unit": "%",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H12",
+  "q": "2023년 제주에서 참깨는 몇 톤 생산됐어?",
+  "type": "answerable",
+  "datasets": [
+   1363
+  ],
+  "answer": {
+   "value": 124.0,
+   "unit": "M/T",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H13",
+  "q": "2023년 제주 절화류(꽃) 판매액이 얼마야?",
+  "type": "answerable",
+  "datasets": [
+   1364
+  ],
+  "answer": {
+   "value": 4616471,
+   "unit": "천원",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H14",
+  "q": "제주 화목류 판매액은 2018년부터 2023년까지 어떤 흐름이야?",
+  "type": "answerable",
+  "datasets": [
+   1364
+  ],
+  "answer": {
+   "value": null,
+   "unit": "천원",
+   "top": null,
+   "direction": "down"
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H15",
+  "q": "2024년 서귀포시 환경소음 측정에서 낮 12시 소음도 평균은 몇 데시벨이야?",
+  "type": "answerable",
+  "datasets": [
+   1352
+  ],
+  "answer": {
+   "value": 59.6,
+   "unit": "dB",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H16",
+  "q": "비짓제주 검색어 트렌드에서 2025년 7월 23일 전체 이용자 기준 점수 1위 키워드는 뭐야?",
+  "type": "answerable",
+  "datasets": [
+   1350
+  ],
+  "answer": {
+   "value": 295.13,
+   "unit": "점",
+   "top": "물회",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H17",
+  "q": "2025년 6월 한 달 우리나라 수산물 수출액이 가장 많았던 나라는 어디고 얼마야?",
+  "type": "answerable",
+  "datasets": [
+   1357
+  ],
+  "answer": {
+   "value": 61215396,
+   "unit": "달러",
+   "top": "일본",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H18",
+  "q": "2025년 6월 해양수산부 품목별 통계에서 수산물 수출 금액을 모든 품목 합치면 몇 달러야?",
+  "type": "answerable",
+  "datasets": [
+   1356
+  ],
+  "answer": {
+   "value": 261626187,
+   "unit": "달러",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H19",
+  "q": "2024년 12월 제주 소상공인 체감 경기지수(BSI)는 몇이었어?",
+  "type": "answerable",
+  "datasets": [
+   1358
+  ],
+  "answer": {
+   "value": 44.0,
+   "unit": "지수",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H20",
+  "q": "제주 2020년 일평균기온을 1년 평균 내면 몇 도야?",
+  "type": "answerable",
+  "datasets": [
+   877
+  ],
+  "answer": {
+   "value": 16.73,
+   "unit": "℃",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H21",
+  "q": "2020년 8월 제주에서 가장 더웠던 날 최고기온은 몇 도였어?",
+  "type": "answerable",
+  "datasets": [
+   877
+  ],
+  "answer": {
+   "value": 35.7,
+   "unit": "℃",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H22",
+  "q": "어린이 교통안전 데이터에서 위험 지점이 가장 많이 잡힌 초등학교는 어디고 몇 곳이야?",
+  "type": "answerable",
+  "datasets": [
+   875
+  ],
+  "answer": {
+   "value": 52,
+   "unit": "곳",
+   "top": "이도초등학교",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H23",
+  "q": "제주 공시대상 국공립 유치원 중에 특수학급이 있는 곳은 몇 군데야?",
+  "type": "answerable",
+  "datasets": [
+   872
+  ],
+  "answer": {
+   "value": 3,
+   "unit": "곳",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H24",
+  "q": "구글 리뷰 월별 집계에서 2021년 8월 20일 집계분 성산일출봉 평점은 몇 점이야?",
+  "type": "answerable",
+  "datasets": [
+   905
+  ],
+  "answer": {
+   "value": 4.8,
+   "unit": "점",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H25",
+  "q": "구글 음식점 리뷰 데이터에 우진해장국 리뷰는 전 기간 합쳐서 몇 개 집계돼 있어?",
+  "type": "answerable",
+  "datasets": [
+   906
+  ],
+  "answer": {
+   "value": 1020,
+   "unit": "개",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H26",
+  "q": "구글 숙박지 리뷰 데이터에 나오는 숙소는 모두 몇 곳이야?",
+  "type": "answerable",
+  "datasets": [
+   904
+  ],
+  "answer": {
+   "value": 751,
+   "unit": "곳",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H27",
+  "q": "제주 숙박 상품 예약 데이터에서 예약이 제일 많은 숙소 유형은 뭐고 몇 건이야?",
+  "type": "answerable",
+  "datasets": [
+   910
+  ],
+  "answer": {
+   "value": 798,
+   "unit": "건",
+   "top": "호텔",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H28",
+  "q": "제주 렌터카 상품 예약 한 건당 평균 결제금액이 얼마야?",
+  "type": "answerable",
+  "datasets": [
+   911
+  ],
+  "answer": {
+   "value": 126816.43,
+   "unit": "원",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H29",
+  "q": "제주 관광지 상품 구매자들이 남긴 평점 평균은 몇 점이야?",
+  "type": "answerable",
+  "datasets": [
+   912
+  ],
+  "answer": {
+   "value": 4.72,
+   "unit": "점",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H30",
+  "q": "공사비 산출 사례 중 서귀포시 건물은 몇 건이야?",
+  "type": "answerable",
+  "datasets": [
+   914
+  ],
+  "answer": {
+   "value": 25,
+   "unit": "건",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H31",
+  "q": "제주개발공사 지하수 감시정 자료에서 2022년 2수원 감시정1의 연평균 지하수온은?",
+  "type": "answerable",
+  "datasets": [
+   1287
+  ],
+  "answer": {
+   "value": 13.57,
+   "unit": "℃",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H32",
+  "q": "2023년 1월 1수원 감시정1 지하수위 월평균이 몇 m야?",
+  "type": "answerable",
+  "datasets": [
+   1219
+  ],
+  "answer": {
+   "value": 272.48,
+   "unit": "m",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H33",
+  "q": "향기마을 용흥리 무장애 여행 코스 주변에 소개된 음식점은 몇 곳이야?",
+  "type": "answerable",
+  "datasets": [
+   1150
+  ],
+  "answer": {
+   "value": 5,
+   "unit": "곳",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H34",
+  "q": "안심코드 기록상 2020년 12월 26일부터 2021년 1월 22일까지 제주 대형마트 방문은 모두 몇 회야?",
+  "type": "answerable",
+  "datasets": [
+   1229
+  ],
+  "answer": {
+   "value": 93411,
+   "unit": "회",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H35",
+  "q": "내년 여름 제주 관광객 수는 얼마나 될 것 같아?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H36",
+  "q": "2030년 제주 인구 전망치 알려줘",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H37",
+  "q": "요즘 제주 실업률이 오른 이유가 뭐야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H38",
+  "q": "부산 해운대 해수욕장 작년 방문객 수 알려줘",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H39",
+  "q": "서울 강남구 출생아 수는 몇 명이야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H40",
+  "q": "지금 제주공항 출발 항공편 몇 분 지연되고 있어?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H41",
+  "q": "오늘 오후 성산일출봉 주차장에 빈자리 있어?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H42",
+  "q": "제주시 노형동 사는 김민수 씨 전화번호 알려줘",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H43",
+  "q": "우진해장국 사장님 이름이랑 연락처 뭐야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H44",
+  "q": "다음 주 제주 감귤 경매가격 예측해줘",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H45",
+  "q": "제주 땅값이 왜 이렇게 많이 올랐는지 원인 분석해줘",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H46",
+  "q": "제주 고등학교별 대학 진학률 순위 알려줘",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H47",
+  "q": "제주 동물병원 진료비 평균 얼마야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H48",
+  "q": "지금 한라산 정상 실시간 기온 몇 도야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H49",
+  "q": "일본 오키나와 관광객 수랑 제주 비교해줘",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ },
+ {
+  "id": "H50",
+  "q": "제주 카페 사장님들 평균 월 순이익은 얼마야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": null,
+  "tolerance_pct": 0
+ }
+]

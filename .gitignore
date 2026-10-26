@@ -1,0 +1,6 @@
+/muleumeong
+web/node_modules/
+*.gguf
+.env
+.DS_Store
+/full/

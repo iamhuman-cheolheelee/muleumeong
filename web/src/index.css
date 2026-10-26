@@ -1,0 +1,47 @@
+@import "tailwindcss";
+@import "pretendard/dist/web/variable/pretendardvariable-dynamic-subset.css";
+
+/* 에코브릿지형 A4·데모 토큰(design-ecobridge §1-2) · 액센트만 제주 바다색으로 교체 */
+@theme {
+  --font-sans: "Pretendard Variable", "Pretendard", "Apple SD Gothic Neo", sans-serif;
+  --color-canvas: oklch(0.972 0.005 230);
+  --color-surface: oklch(1 0 0);
+  --color-raised: oklch(0.988 0.003 230);
+  --color-overlay: oklch(1 0 0);
+  --color-line: oklch(0.911 0.012 240);
+  --color-line-2: oklch(0.837 0.018 240);
+  --color-ink: oklch(0.263 0.029 259.1);
+  --color-ink-2: oklch(0.447 0.031 259.0);
+  --color-ink-3: oklch(0.514 0.029 257.7);
+  --color-accent: oklch(0.50 0.12 235);
+  --color-accent-soft: oklch(0.955 0.03 235);
+  --color-accent-2: oklch(0.52 0.15 300);
+  --color-gold: oklch(0.56 0.12 70);
+  --color-gold-soft: oklch(0.95 0.05 80);
+  --color-blue-hr: oklch(0.52 0.15 270);
+  --color-blue-soft: oklch(0.95 0.03 270);
+  --color-danger: oklch(0.501 0.181 27.9);
+  --color-warn: oklch(0.508 0.108 73.3);
+  --color-ok: oklch(0.527 0.137 150.1);
+  --color-problem: #c2410c;
+  --color-problem-soft: #fbeee6;
+  --shadow-card: 0 1px 2px rgba(28,37,51,.06);
+  --shadow-float: 0 1px 2px rgba(28,37,51,.06);
+  --radius-chip: 8px;
+  --radius-card: 20px;
+}
+
+html, body { background: var(--color-canvas); }
+body {
+  font-family: var(--font-sans);
+  color: var(--color-ink);
+  word-break: keep-all;
+  font-feature-settings: "tnum" 1, "calt" 0;
+  -webkit-print-color-adjust: exact; print-color-adjust: exact;
+}
+.card { background: var(--color-surface); border: 1.5px solid var(--color-line); border-radius: var(--radius-card); }
+.kicker { font-size: 12px; font-weight: 700; color: var(--color-accent); letter-spacing: .01em; }
+.num { font-weight: 800; letter-spacing: -.035em; line-height: 1; }
+.num small { font-size: .42em; font-weight: 700; margin-left: 3px; color: var(--color-ink-2); letter-spacing: -.01em; }
+svg text { font-family: var(--font-sans); }
+::-webkit-scrollbar { height: 8px; width: 8px; } ::-webkit-scrollbar-thumb { background: var(--color-line-2); border-radius: 8px; }

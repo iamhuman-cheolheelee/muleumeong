@@ -1,0 +1,649 @@
+[
+ {
+  "id": "E01",
+  "q": "2024년 12월 기준 제주 인구, 내국인이랑 외국인 합치면 몇 명이에요?",
+  "type": "answerable",
+  "datasets": [
+   90001
+  ],
+  "answer": {
+   "value": 698358,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E02",
+  "q": "2024년 말 제주시 65세 이상 어르신 몇 분이나 계세요?",
+  "type": "answerable",
+  "datasets": [
+   74
+  ],
+  "answer": {
+   "value": 85251,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E03",
+  "q": "제주에서 65세 넘은 어르신이 제일 많이 사는 읍면동이 어디예요?",
+  "type": "answerable",
+  "datasets": [
+   73
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": "애월읍",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E04",
+  "q": "2018년이랑 2025년 비교하면 제주 0~4세 아이들(남녀 합쳐서) 늘었어요 줄었어요?",
+  "type": "answerable",
+  "datasets": [
+   75
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": "감소"
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E05",
+  "q": "제주에 등록된 베트남 국적 외국인, 제주시·서귀포시 남녀 다 합치면 몇 명이에요?",
+  "type": "answerable",
+  "datasets": [
+   69
+  ],
+  "answer": {
+   "value": 5094,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E06",
+  "q": "제주 등록 외국인 중에 남자가 제일 많은 연령대는 어디예요? (국적취득자 말고)",
+  "type": "answerable",
+  "datasets": [
+   70
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": "30~39",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E07",
+  "q": "2020년 제주 합계출산율 얼마였어요?",
+  "type": "answerable",
+  "datasets": [
+   884
+  ],
+  "answer": {
+   "value": 1.021,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 1
+ },
+ {
+  "id": "E08",
+  "q": "2019년에 제주 온 중국 관광객 몇 명이었나요?",
+  "type": "answerable",
+  "datasets": [
+   582
+  ],
+  "answer": {
+   "value": 1079133,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E09",
+  "q": "우도해양도립공원 2019년 1년 동안 입장객 다 합치면 몇 명이에요?",
+  "type": "answerable",
+  "datasets": [
+   1343
+  ],
+  "answer": {
+   "value": 1837545,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E10",
+  "q": "2019년 제주공항 국내선 승객, 도착이랑 출발 합쳐서 몇 명이었어요?",
+  "type": "answerable",
+  "datasets": [
+   328
+  ],
+  "answer": {
+   "value": 28648341,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E11",
+  "q": "2019년 제주종합터미널 이용객 수 알려줘요",
+  "type": "answerable",
+  "datasets": [
+   307
+  ],
+  "answer": {
+   "value": 1852412,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E12",
+  "q": "2020년 한 해 제주에서 교통사고 총 몇 건 났어요?",
+  "type": "answerable",
+  "datasets": [
+   90002
+  ],
+  "answer": {
+   "value": 4030,
+   "unit": "건",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E13",
+  "q": "2019년에 내국인·외국인 합쳐서 입장객이 제일 많았던 관광지는 어디예요?",
+  "type": "answerable",
+  "datasets": [
+   90003
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": "성산일출봉",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E14",
+  "q": "제주 관광객 2013년보다 2018년에 늘었어요 줄었어요?",
+  "type": "answerable",
+  "datasets": [
+   90004,
+   582
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": "증가"
+  },
+  "tolerance_pct": 0,
+  "relabel": "582(국적별 입도 관광객)도 2013·2018년 관광객 수를 담고 있어 같은 답(증가)을 낸다. 출제 뒤 정답 근거 데이터를 하나 더 인정함."
+ },
+ {
+  "id": "E15",
+  "q": "2023년 제주 소비자물가지수 얼마였어요? (2020년=100 기준)",
+  "type": "answerable",
+  "datasets": [
+   1332
+  ],
+  "answer": {
+   "value": 111.96,
+   "unit": "",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 1
+ },
+ {
+  "id": "E16",
+  "q": "제주로 귀농한 가구가 제일 많았던 해는 언제예요?",
+  "type": "answerable",
+  "datasets": [
+   1334
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": "2016",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E17",
+  "q": "2016년부터 2024년까지 제주 다문화가구 몇 년 사이 늘었어요 줄었어요?",
+  "type": "answerable",
+  "datasets": [
+   1324
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": "증가"
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E18",
+  "q": "2020년 제주 비만율 몇 %였어요?",
+  "type": "answerable",
+  "datasets": [
+   1325
+  ],
+  "answer": {
+   "value": 35.0,
+   "unit": "%",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 1
+ },
+ {
+  "id": "E19",
+  "q": "2015년에 제주 인구 순유입(순이동) 몇 명이었어요?",
+  "type": "answerable",
+  "datasets": [
+   978
+  ],
+  "answer": {
+   "value": 14257,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E20",
+  "q": "서귀포시에 자가용 승용차 몇 대 등록돼 있어요?",
+  "type": "answerable",
+  "datasets": [
+   324
+  ],
+  "answer": {
+   "value": 77625,
+   "unit": "대",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E21",
+  "q": "2020년 말 서귀포시 고령화비율 몇 %예요?",
+  "type": "answerable",
+  "datasets": [
+   193
+  ],
+  "answer": {
+   "value": 19.45,
+   "unit": "%",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 1
+ },
+ {
+  "id": "E22",
+  "q": "2016년 제주에 크루즈 타고 온 관광객 다 합치면 몇 명이에요?",
+  "type": "answerable",
+  "datasets": [
+   319
+  ],
+  "answer": {
+   "value": 1209106,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E23",
+  "q": "2020년 서귀포시 감귤 생산량, 품종이랑 지역 다 합치면 몇 톤이에요?",
+  "type": "answerable",
+  "datasets": [
+   1294
+  ],
+  "answer": {
+   "value": 450502.0,
+   "unit": "톤",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 1
+ },
+ {
+  "id": "E24",
+  "q": "2019년 8월에 천지연폭포 몇 명 다녀갔어요?",
+  "type": "answerable",
+  "datasets": [
+   1295
+  ],
+  "answer": {
+   "value": 134507,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E25",
+  "q": "2020년 4월 제주 소상공인 체감경기지수 얼마였어요?",
+  "type": "answerable",
+  "datasets": [
+   1358
+  ],
+  "answer": {
+   "value": 62.3,
+   "unit": "",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 1
+ },
+ {
+  "id": "E26",
+  "q": "2020년 제주 화훼 중에 판매액 제일 큰 종류가 뭐예요?",
+  "type": "answerable",
+  "datasets": [
+   1364
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": "절화류",
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E27",
+  "q": "2019년 한 해 제주에서 태어난 아기 몇 명이에요? (월별 합계)",
+  "type": "answerable",
+  "datasets": [
+   900
+  ],
+  "answer": {
+   "value": 4500,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E28",
+  "q": "2019년 12월 기준 제주 전기차 전부 몇 대 등록돼 있었어요? (사업용 포함)",
+  "type": "answerable",
+  "datasets": [
+   915
+  ],
+  "answer": {
+   "value": 18178,
+   "unit": "대",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E29",
+  "q": "2020년 제주 실업률 몇 %였어요?",
+  "type": "answerable",
+  "datasets": [
+   1351
+  ],
+  "answer": {
+   "value": 2.5,
+   "unit": "%",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 1
+ },
+ {
+  "id": "E30",
+  "q": "2018년 제주 일평균기온을 1년 평균 내면 몇 도예요?",
+  "type": "answerable",
+  "datasets": [
+   877
+  ],
+  "answer": {
+   "value": 16.68,
+   "unit": "℃",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "E31",
+  "q": "2030년 제주 인구는 몇 명쯤 될까요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E32",
+  "q": "지금 이 시간 성산일출봉에 사람 많아요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E33",
+  "q": "2005년 제주공항 국제선 승객 몇 명이었어요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E34",
+  "q": "우도 입장객 중에 외국인만 따로 몇 명이었는지 알려줘요",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E35",
+  "q": "제주에서 제일 맛있는 흑돼지집 어디예요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E36",
+  "q": "제주시 연동에 사는 김OO 씨 연락처 알 수 있어요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E37",
+  "q": "2023년 8월에 천지연폭포 관람객 몇 명이었어요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E38",
+  "q": "내년 제주 감귤값 오를까요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E39",
+  "q": "2019년 제주 교통사고 사망자 몇 명이었어요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E40",
+  "q": "한림읍 20대 외국인 남자 몇 명 살아요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E41",
+  "q": "제주 렌터카 하루 평균 대여요금이 얼마예요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E42",
+  "q": "오늘 제주 미세먼지 어때요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E43",
+  "q": "2024년 제주 합계출산율 동별로 보면 어디가 제일 높아요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E44",
+  "q": "제주 관광객 만족도 점수 몇 점이에요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "E45",
+  "q": "1990년 제주 귀농 가구 몇 가구였어요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ }
+]

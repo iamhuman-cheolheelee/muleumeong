@@ -1,0 +1,611 @@
+[
+ {
+  "id": "C01",
+  "q": "제주 2020년 고용률(취업 고용률)은 몇 퍼센트였어?",
+  "type": "answerable",
+  "datasets": [
+   1351
+  ],
+  "answer": {
+   "value": 67.1,
+   "unit": "%",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C02",
+  "q": "제주 청년고용률은 2019년에 비해 2023년에 올랐어 내렸어?",
+  "type": "answerable",
+  "datasets": [
+   1351
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": "up"
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C03",
+  "q": "2016~2024년 중 제주 경제활동 참가율이 가장 높았던 해는?",
+  "type": "answerable",
+  "datasets": [
+   1351
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": "2017",
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C04",
+  "q": "2021년 서귀포시 감귤 총 생산량은 얼마야?",
+  "type": "answerable",
+  "datasets": [
+   1294
+  ],
+  "answer": {
+   "value": 477385.4,
+   "unit": "톤",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C05",
+  "q": "2021년 서귀포시에서 감귤 생산량이 가장 많은 읍면동은 어디야?",
+  "type": "answerable",
+  "datasets": [
+   1294
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": "남원읍",
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C06",
+  "q": "서귀포시 하우스감귤 재배면적은 2012년보다 2021년에 늘었어 줄었어?",
+  "type": "answerable",
+  "datasets": [
+   1294
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": "up"
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C07",
+  "q": "2019년 한 해 천지연폭포 관람객 수는 몇 명이야?",
+  "type": "answerable",
+  "datasets": [
+   1295
+  ],
+  "answer": {
+   "value": 1323193.0,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C08",
+  "q": "2019년 서귀포시 직영관광지 중 관람객이 가장 많았던 곳은?",
+  "type": "answerable",
+  "datasets": [
+   1295
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": "천지연폭포",
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C09",
+  "q": "정방폭포 연간 관람객은 2019년 대비 2021년에 늘었어 줄었어?",
+  "type": "answerable",
+  "datasets": [
+   1295
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": "down"
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C10",
+  "q": "2020년 제주 연평균 기온(일평균기온의 평균)은 몇 도였어?",
+  "type": "answerable",
+  "datasets": [
+   877
+  ],
+  "answer": {
+   "value": 16.73,
+   "unit": "℃",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C11",
+  "q": "2010년 8월 제주 일 최고기온의 평균은 몇 도야?",
+  "type": "answerable",
+  "datasets": [
+   877
+  ],
+  "answer": {
+   "value": 31.86,
+   "unit": "℃",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C12",
+  "q": "2020년 제주 출생아 수는 모두 몇 명이야?",
+  "type": "answerable",
+  "datasets": [
+   900
+  ],
+  "answer": {
+   "value": 3989.0,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C13",
+  "q": "2019년 제주 혼인 건수는 몇 건이었어?",
+  "type": "answerable",
+  "datasets": [
+   900
+  ],
+  "answer": {
+   "value": 3358.0,
+   "unit": "건",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C14",
+  "q": "제주 연간 사망자 수는 2018년에 비해 2020년에 늘었어 줄었어?",
+  "type": "answerable",
+  "datasets": [
+   900
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": "up"
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C15",
+  "q": "2020년 9월 기준 제주 승용차 등록 대수(계)는?",
+  "type": "answerable",
+  "datasets": [
+   915
+  ],
+  "answer": {
+   "value": 518685.0,
+   "unit": "대",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C16",
+  "q": "2019년 12월 제주 전기차 등록 대수는 전체 몇 대야?",
+  "type": "answerable",
+  "datasets": [
+   915
+  ],
+  "answer": {
+   "value": 18178.0,
+   "unit": "대",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C17",
+  "q": "제주 전기차 등록 대수는 2015년 12월에서 2020년 9월 사이 증가했어 감소했어?",
+  "type": "answerable",
+  "datasets": [
+   915
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": "up"
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C18",
+  "q": "2021년 제주에서 생산량이 가장 많은 특용작물은 뭐야?",
+  "type": "answerable",
+  "datasets": [
+   1363
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": "양유(더덕)-경작지",
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C19",
+  "q": "2023년 제주 화훼 판매액 합계는 얼마야?",
+  "type": "answerable",
+  "datasets": [
+   1364
+  ],
+  "answer": {
+   "value": 6442695.0,
+   "unit": "천원",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C20",
+  "q": "2023년 제주 화훼 중 판매액이 가장 큰 구분은?",
+  "type": "answerable",
+  "datasets": [
+   1364
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": "절화류",
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C21",
+  "q": "2023년 제주 소상공인 경기 체감지수(BSI) 연평균은?",
+  "type": "answerable",
+  "datasets": [
+   1358
+  ],
+  "answer": {
+   "value": 65.82,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C22",
+  "q": "제주 소상공인 체감 BSI 연평균은 2020년보다 2022년에 높아졌어 낮아졌어?",
+  "type": "answerable",
+  "datasets": [
+   1358
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": "down"
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C23",
+  "q": "2024년 서귀포시 환경소음 측정 건수(측정지점 기준 행 수)는 몇 건이야?",
+  "type": "answerable",
+  "datasets": [
+   1352
+  ],
+  "answer": {
+   "value": 60.0,
+   "unit": "건",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C24",
+  "q": "2024년 제주시 환경소음 측정지점의 밤 23시 소음도 평균은 몇 dB이야?",
+  "type": "answerable",
+  "datasets": [
+   1352
+  ],
+  "answer": {
+   "value": 52.83,
+   "unit": "dB",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C25",
+  "q": "2023년 1월 제주개발공사 1수원 감시정1 지하수위 평균은 몇 m야?",
+  "type": "answerable",
+  "datasets": [
+   1219
+  ],
+  "answer": {
+   "value": 272.48,
+   "unit": "m",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0.5
+ },
+ {
+  "id": "C26",
+  "q": "2022년 제주개발공사 1수원 감시정1 지하수온 연평균은 몇 도야?",
+  "type": "answerable",
+  "datasets": [
+   1287
+  ],
+  "answer": {
+   "value": 13.96,
+   "unit": "℃",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C27",
+  "q": "2024년 12월 우리나라 수산물 수출액은 모두 몇 달러야?",
+  "type": "answerable",
+  "datasets": [
+   1356,
+   1357
+  ],
+  "answer": {
+   "value": 253915640.0,
+   "unit": "달러",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C28",
+  "q": "2025년 농산물 TRQ 중 도입물량이 가장 많은 품목군은?",
+  "type": "answerable",
+  "datasets": [
+   1353
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": "맥아맥주맥",
+   "direction": null
+  },
+  "tolerance_pct": 2
+ },
+ {
+  "id": "C29",
+  "q": "내일 제주 날씨 어때?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "C30",
+  "q": "2030년 제주 인구는 몇 명으로 예상돼?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "C31",
+  "q": "지금 성산일출봉에 사람 몇 명 있어?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "C32",
+  "q": "2010년 제주 실업률은 몇 퍼센트였어?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "C33",
+  "q": "2005년 서귀포시 감귤 생산량은?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "C34",
+  "q": "2015년 천지연폭포 관람객 수는?",
+  "type": "answerable",
+  "datasets": [
+   90003
+  ],
+  "answer": {
+   "value": 1812898,
+   "unit": "명",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0,
+  "relabel": "데이터 확장(공공데이터포털 주요관광지점 입장객 2010~2019) 뒤 답할 수 있게 되어 원본 합(내국인 1,628,124+외국인 184,774)으로 다시 매김"
+ },
+ {
+  "id": "C35",
+  "q": "울릉도 작년 관광객 수 알려줘",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "C36",
+  "q": "제주에서 제일 맛있는 흑돼지집 추천해줘",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "C37",
+  "q": "2025년 제주 출생아 수는 몇 명이야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "C38",
+  "q": "2023년 제주 연평균 기온은 몇 도였어?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "C39",
+  "q": "제주 아파트 평균 매매가격 2024년 얼마야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "C40",
+  "q": "오늘 제주공항 항공편 지연 몇 건이야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "C41",
+  "q": "다음 달 제주 렌터카 요금 오를까?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0
+ },
+ {
+  "id": "C42",
+  "q": "2024년 제주 크루즈선 입항 횟수는?",
+  "type": "answerable",
+  "datasets": [
+   319
+  ],
+  "answer": {
+   "value": 136,
+   "unit": "회",
+   "top": null,
+   "direction": null
+  },
+  "tolerance_pct": 0,
+  "relabel": "데이터 확장(국제크루즈 기항실적) 뒤 답할 수 있게 되어 2024년 횟수 열 합으로 다시 매김"
+ }
+]

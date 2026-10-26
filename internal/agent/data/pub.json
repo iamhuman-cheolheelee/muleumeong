@@ -1,0 +1,290 @@
+[
+ {
+  "id": 90001,
+  "title": "제주특별자치도_인구통계정보",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15069606/fileData.do",
+  "cat": "인구",
+  "period": "2019-01~2025-06"
+ },
+ {
+  "id": 90002,
+  "title": "경찰청 제주특별자치도경찰청_교통사고 발생 현황",
+  "provider": "경찰청 제주특별자치도경찰청",
+  "url": "https://www.data.go.kr/data/15039675/fileData.do",
+  "cat": "교통",
+  "period": "2011~2025"
+ },
+ {
+  "id": 90003,
+  "title": "제주특별자치도_주요관광지점입장객현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15084198/fileData.do",
+  "cat": "관광",
+  "period": "2010~2019 (연도별 컬럼)"
+ },
+ {
+  "id": 90004,
+  "title": "제주특별자치도_제주지역관광시장동향",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15051470/fileData.do",
+  "cat": "관광",
+  "period": "2013~2018"
+ },
+ {
+  "id": 74,
+  "title": "제주특별자치도_연도별노인인구현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15056375/fileData.do",
+  "cat": "",
+  "period": "2007-12~2024-12"
+ },
+ {
+  "id": 73,
+  "title": "제주특별자치도_읍면동별노인인구현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15056374/fileData.do",
+  "cat": "",
+  "period": "snapshot 20251231"
+ },
+ {
+  "id": 75,
+  "title": "제주특별자치도_청소년인구현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15056376/fileData.do",
+  "cat": "",
+  "period": "2018~2025"
+ },
+ {
+  "id": 69,
+  "title": "제주특별자치도_국적별외국인등록현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15045325/fileData.do",
+  "cat": "",
+  "period": "snapshot 20241101"
+ },
+ {
+  "id": 70,
+  "title": "제주특별자치도_연령별외국인등록현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15045326/fileData.do",
+  "cat": "",
+  "period": "snapshot 20241101"
+ },
+ {
+  "id": 884,
+  "title": "제주특별자치도_합계 출산율 정보",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15096650/fileData.do",
+  "cat": "",
+  "period": "1993~2020"
+ },
+ {
+  "id": 582,
+  "title": "제주특별자치도_외국인국적별내도현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15061602/fileData.do",
+  "cat": "",
+  "period": "2013~2025"
+ },
+ {
+  "id": 1343,
+  "title": "제주특별자치도 제주시_우도해양도립공원입장객현황",
+  "provider": "제주특별자치도 제주시",
+  "url": "https://www.data.go.kr/data/15048389/fileData.do",
+  "cat": "",
+  "period": "2015~2026"
+ },
+ {
+  "id": 328,
+  "title": "제주특별자치도_제주국제공항항공수송실적현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15047533/fileData.do",
+  "cat": "",
+  "period": "2013~2025"
+ },
+ {
+  "id": 307,
+  "title": "제주특별자치도_버스터미널이용현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/3083715/fileData.do",
+  "cat": "",
+  "period": "2013~2024"
+ },
+ {
+  "id": 1332,
+  "title": "제주특별자치도_제주지역물가지수동향",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15051469/fileData.do",
+  "cat": "",
+  "period": "2014~2024"
+ },
+ {
+  "id": 1334,
+  "title": "제주특별자치도_귀농귀촌귀어가구현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15012120/fileData.do",
+  "cat": "",
+  "period": "2015~2024"
+ },
+ {
+  "id": 1324,
+  "title": "제주특별자치도_다문화가구현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15011595/fileData.do",
+  "cat": "",
+  "period": "2016~2024"
+ },
+ {
+  "id": 1325,
+  "title": "제주특별자치도_건강관련통계정보",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15068615/fileData.do",
+  "cat": "",
+  "period": "2010~2024"
+ },
+ {
+  "id": 978,
+  "title": "제주특별자치도_인구이동정보",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15096907/fileData.do",
+  "cat": "",
+  "period": "2010~2020"
+ },
+ {
+  "id": 324,
+  "title": "제주특별자치도_자동차등록정보",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/3083699/fileData.do",
+  "cat": "",
+  "period": "snapshot 20241231"
+ },
+ {
+  "id": 193,
+  "title": "제주특별자치도 서귀포시_고령화비율및노령화지수현황",
+  "provider": "제주특별자치도 서귀포시",
+  "url": "https://www.data.go.kr/data/15051545/fileData.do",
+  "cat": "",
+  "period": "2008~2024"
+ },
+ {
+  "id": 319,
+  "title": "제주특별자치도_국제크루즈기항실적",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15056327/fileData.do",
+  "cat": "",
+  "period": "2004~2024"
+ },
+ {
+  "id": 391,
+  "title": "제주특별자치도_해녀인구현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15083395/fileData.do",
+  "cat": "인구",
+  "period": "2016~2025"
+ },
+ {
+  "id": 473,
+  "title": "제주특별자치도_전기자동차등록현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15047558/fileData.do",
+  "cat": "교통",
+  "period": "2020~2025"
+ },
+ {
+  "id": 1340,
+  "title": "제주특별자치도_기상개황정보",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15010338/fileData.do",
+  "cat": "환경",
+  "period": "2017~2025"
+ },
+ {
+  "id": 82,
+  "title": "제주특별자치도_국제학교학생수현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15045338/fileData.do",
+  "cat": "교육",
+  "period": "2025-10-01 기준"
+ },
+ {
+  "id": 422,
+  "title": "제주특별자치도_품종별감귤생산현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15010584/fileData.do",
+  "cat": "농업",
+  "period": "2000~2024"
+ },
+ {
+  "id": 532,
+  "title": "제주특별자치도 제주시_감귤생산및처리현황",
+  "provider": "제주특별자치도 제주시",
+  "url": "https://www.data.go.kr/data/3083503/fileData.do",
+  "cat": "농업",
+  "period": "2012~2024"
+ },
+ {
+  "id": 1345,
+  "title": "제주특별자치도 서귀포시_생활폐기물발생현황",
+  "provider": "제주특별자치도 서귀포시",
+  "url": "https://www.data.go.kr/data/15108254/fileData.do",
+  "cat": "환경",
+  "period": "2014~2025"
+ },
+ {
+  "id": 464,
+  "title": "제주특별자치도_광역폐기물소각시설운영현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15045363/fileData.do",
+  "cat": "환경",
+  "period": "2025-12-31 기준"
+ },
+ {
+  "id": 90005,
+  "title": "제주특별자치도_노지감귤(온주)재배현황",
+  "provider": "제주특별자치도",
+  "url": "https://www.data.go.kr/data/15114274/fileData.do",
+  "cat": "농업",
+  "period": "1995~2021"
+ },
+ {
+  "id": 90006,
+  "title": "제주특별자치도 제주시_연도별 감귤 생산면적 현황",
+  "provider": "제주특별자치도 제주시",
+  "url": "https://www.data.go.kr/data/15127964/fileData.do",
+  "cat": "농업",
+  "period": "2021~2024"
+ },
+ {
+  "id": 90007,
+  "title": "제주관광공사_제주방문관광객 실태조사 내국인 관광객 1인당 지출 경비 통계",
+  "provider": "제주관광공사",
+  "url": "https://www.data.go.kr/data/15152257/fileData.do",
+  "cat": "관광",
+  "period": "2025-01~2025-12"
+ },
+ {
+  "id": 90008,
+  "title": "제주특별자치도 제주시_자동차등록현황",
+  "provider": "제주특별자치도 제주시",
+  "url": "https://www.data.go.kr/data/15071218/fileData.do",
+  "cat": "교통",
+  "period": "2026-02-28 기준"
+ },
+ {
+  "id": 90009,
+  "title": "제주특별자치도 서귀포시_읍면동별자동차등록현황",
+  "provider": "제주특별자치도 서귀포시",
+  "url": "https://www.data.go.kr/data/15108251/fileData.do",
+  "cat": "교통",
+  "period": "2019-01~2025-06"
+ },
+ {
+  "id": 90010,
+  "title": "한국환경공단_전기차 충전소 위치 및 운영정보",
+  "provider": "한국환경공단",
+  "url": "https://www.data.go.kr/data/15119741/fileData.do",
+  "cat": "교통",
+  "period": "2022-10-27 기준"
+ }
+]

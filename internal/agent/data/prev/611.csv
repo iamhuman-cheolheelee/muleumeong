@@ -1,0 +1,3 @@
+routeId,routeName,routeNumber,startStationId,endStationId,startStationName,endStationName,stationCount,routeLength
+405410101,101-1,101,405002101,406000711,"제주국제공항(일주동로, 5 1 6 도로)",서귀포버스터미널,15,100055
+405410102,101-2,101,406001256,405001896,서귀포버스터미널(가상정류소),제주국제공항,15,99540

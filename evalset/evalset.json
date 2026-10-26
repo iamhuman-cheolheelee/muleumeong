@@ -1,0 +1,853 @@
+[
+ {
+  "id": "E01",
+  "q": "제주 2024년 실업률 몇 퍼센트였어요?",
+  "type": "answerable",
+  "datasets": [
+   1351
+  ],
+  "answer": {
+   "value": 2.3,
+   "unit": "%",
+   "key": "2024년 제주 실업률",
+   "top": null,
+   "direction": null,
+   "year": "2024"
+  },
+  "tolerance_pct": 1,
+  "why": "1351 실업률 열, 구분연도=2024"
+ },
+ {
+  "id": "E02",
+  "q": "작년에 제주 실업자 몇 명이었는지 알려줘",
+  "type": "answerable",
+  "datasets": [
+   1351
+  ],
+  "answer": {
+   "value": 10000.0,
+   "unit": "명",
+   "key": "제주 실업자 수(최신 2024년)",
+   "top": null,
+   "direction": null,
+   "year": "2024 (2025 자료 없음 - 최신연도임을 밝혀야 함)"
+  },
+  "tolerance_pct": 1,
+  "why": "1351 실업 인구, 데이터 최종연도 2024"
+ },
+ {
+  "id": "E03",
+  "q": "제주 취업자 수 2016년보다 늘었어요 줄었어요? 2024년엔 몇 명?",
+  "type": "answerable",
+  "datasets": [
+   1351
+  ],
+  "answer": {
+   "value": 400000.0,
+   "unit": "명",
+   "key": "2024년 제주 취업자 수",
+   "top": null,
+   "direction": "증가",
+   "year": "2016→2024"
+  },
+  "tolerance_pct": 1,
+  "why": "1351 취업 인구 355000(2016)→400000(2024)"
+ },
+ {
+  "id": "E04",
+  "q": "제주 취업자가 제일 많았던 해가 언제야?",
+  "type": "answerable",
+  "datasets": [
+   1351
+  ],
+  "answer": {
+   "value": 402000.0,
+   "unit": "명",
+   "key": "제주 취업자 수 최다 연도",
+   "top": "2022",
+   "direction": null,
+   "year": "2022"
+  },
+  "tolerance_pct": 1,
+  "why": "1351 취업 인구 최대값 연도"
+ },
+ {
+  "id": "E05",
+  "q": "제주에 전기차 지금 몇 대 등록돼 있어?",
+  "type": "answerable",
+  "datasets": [
+   915
+  ],
+  "answer": {
+   "value": 21107.0,
+   "unit": "대",
+   "key": "제주 전기차 등록 대수(최신 2020년 9월)",
+   "top": null,
+   "direction": null,
+   "year": "2020-09"
+  },
+  "tolerance_pct": 1,
+  "why": "915 차종=계 행, 최신 연월 202009 전기차수(소계); 차종별 행과 계 중복합산 금지"
+ },
+ {
+  "id": "E06",
+  "q": "제주도 사업용 차량은 몇 대나 돼요?",
+  "type": "answerable",
+  "datasets": [
+   915
+  ],
+  "answer": {
+   "value": 239271.0,
+   "unit": "대",
+   "key": "제주 사업용 자동차 등록 대수(최신)",
+   "top": null,
+   "direction": null,
+   "year": "2020-09"
+  },
+  "tolerance_pct": 1,
+  "why": "915 차종=계, 최신월 등록수(사업용); 월별 합산 금지(스톡)"
+ },
+ {
+  "id": "E07",
+  "q": "2019년 한 해 동안 제주에서 폐차된 차 몇 대야?",
+  "type": "answerable",
+  "datasets": [
+   915
+  ],
+  "answer": {
+   "value": 16430.0,
+   "unit": "대",
+   "key": "2019년 제주 폐차 대수",
+   "top": null,
+   "direction": null,
+   "year": "2019"
+  },
+  "tolerance_pct": 1,
+  "why": "915 폐차수(소계)는 연초부터 누적값 → 201912 값 사용(월합산 금지)"
+ },
+ {
+  "id": "E08",
+  "q": "제주 전기차 2015년 말이랑 2019년 말 비교하면 몇 대 늘었어?",
+  "type": "answerable",
+  "datasets": [
+   915
+  ],
+  "answer": {
+   "value": 15809.0,
+   "unit": "대",
+   "key": "2015.12→2019.12 제주 전기차 증가 대수",
+   "top": null,
+   "direction": "증가",
+   "year": "2015-12~2019-12"
+  },
+  "tolerance_pct": 1,
+  "why": "915 계 행 전기차수(소계) 18178-2369"
+ },
+ {
+  "id": "E09",
+  "q": "2020년에 제주에서 돌아가신 분 몇 명이에요?",
+  "type": "answerable",
+  "datasets": [
+   900
+  ],
+  "answer": {
+   "value": 3952.0,
+   "unit": "명",
+   "key": "2020년 제주 사망자 수",
+   "top": null,
+   "direction": null,
+   "year": "2020"
+  },
+  "tolerance_pct": 1,
+  "why": "900 시도=제주특별자치도, 2020년 1~12월 사망자수 합"
+ },
+ {
+  "id": "E10",
+  "q": "제주 2019년 혼인 건수 몇 건이야",
+  "type": "answerable",
+  "datasets": [
+   900
+  ],
+  "answer": {
+   "value": 3358.0,
+   "unit": "건",
+   "key": "2019년 제주 혼인 건수",
+   "top": null,
+   "direction": null,
+   "year": "2019"
+  },
+  "tolerance_pct": 1,
+  "why": "900 제주 2019 월별 혼인건수 합"
+ },
+ {
+  "id": "E11",
+  "q": "2020년 제주 이혼 몇 건 있었어?",
+  "type": "answerable",
+  "datasets": [
+   900
+  ],
+  "answer": {
+   "value": 1744.0,
+   "unit": "건",
+   "key": "2020년 제주 이혼 건수",
+   "top": null,
+   "direction": null,
+   "year": "2020"
+  },
+  "tolerance_pct": 1,
+  "why": "900 제주 2020 월별 이혼건수 합"
+ },
+ {
+  "id": "E12",
+  "q": "2020년 제주 인구 자연증가는 플러스였어 마이너스였어? 몇 명?",
+  "type": "answerable",
+  "datasets": [
+   900
+  ],
+  "answer": {
+   "value": 37.0,
+   "unit": "명",
+   "key": "2020년 제주 자연증가(출생-사망)",
+   "top": null,
+   "direction": "증가",
+   "year": "2020"
+  },
+  "tolerance_pct": 1,
+  "why": "900 제주 2020 자연증가건수 월합"
+ },
+ {
+  "id": "E13",
+  "q": "2021년 8월 제주 조사망률이 전국보다 높았어? 제주 수치 알려줘",
+  "type": "answerable",
+  "datasets": [
+   900
+  ],
+  "answer": {
+   "value": 6.3,
+   "unit": "명/천명",
+   "key": "2021년 8월 제주 조사망률(전국 5.9)",
+   "top": null,
+   "direction": null,
+   "year": "2021-08"
+  },
+  "tolerance_pct": 1,
+  "why": "900 연월=2021. 08 제주 vs 전국 조사망률; 비율은 합산 금지"
+ },
+ {
+  "id": "E14",
+  "q": "2020년에 혼인 건수 제일 많은 시도는 어디고 제주는 몇 건이야?",
+  "type": "answerable",
+  "datasets": [
+   900
+  ],
+  "answer": {
+   "value": 2981.0,
+   "unit": "건",
+   "key": "2020년 제주 혼인 건수(1위 시도 별도)",
+   "top": "경기도",
+   "direction": null,
+   "year": "2020"
+  },
+  "tolerance_pct": 1,
+  "why": "900 2020 시도별 혼인건수 합, 전국 제외"
+ },
+ {
+  "id": "E15",
+  "q": "제주 더덕 2023년에 얼마나 생산됐어? (밭 재배)",
+  "type": "answerable",
+  "datasets": [
+   1363
+  ],
+  "answer": {
+   "value": 4780.0,
+   "unit": "톤",
+   "key": "2023년 제주 더덕(경작지) 생산량",
+   "top": null,
+   "direction": null,
+   "year": "2023"
+  },
+  "tolerance_pct": 1,
+  "why": "1363 품명=양유(더덕)-경작지 생산량[M/T]"
+ },
+ {
+  "id": "E16",
+  "q": "제주 참깨 농사짓는 농가 몇 호야? 최근 기준",
+  "type": "answerable",
+  "datasets": [
+   1363
+  ],
+  "answer": {
+   "value": 1437.0,
+   "unit": "호",
+   "key": "2023년 제주 참깨 농가 수",
+   "top": null,
+   "direction": null,
+   "year": "2023"
+  },
+  "tolerance_pct": 1,
+  "why": "1363 최신 2023 품명=참깨 농가수"
+ },
+ {
+  "id": "E17",
+  "q": "2023년 땅콩 제일 많이 생산한 시도 어디야?",
+  "type": "answerable",
+  "datasets": [
+   1363
+  ],
+  "answer": {
+   "value": 2413.0,
+   "unit": "톤",
+   "key": "2023년 땅콩 생산량 1위 시도",
+   "top": "경상북도",
+   "direction": null,
+   "year": "2023"
+  },
+  "tolerance_pct": 1,
+  "why": "1363 품명=땅콩 2023 시도별 생산량 최대"
+ },
+ {
+  "id": "E18",
+  "q": "제주 유채 재배면적 2010년이랑 비교해서 2023년엔 어떻게 변했어?",
+  "type": "answerable",
+  "datasets": [
+   1363
+  ],
+  "answer": {
+   "value": 94.0,
+   "unit": "ha",
+   "key": "2023년 제주 유채 재배면적(2010년 470 ha)",
+   "top": null,
+   "direction": "감소",
+   "year": "2010→2023"
+  },
+  "tolerance_pct": 1,
+  "why": "1363 품명=유채 재배면적 비교"
+ },
+ {
+  "id": "E19",
+  "q": "2023년 제주 절화류 판매액 얼마야?",
+  "type": "answerable",
+  "datasets": [
+   1364
+  ],
+  "answer": {
+   "value": 4616471.0,
+   "unit": "천원",
+   "key": "2023년 제주 절화류 판매액",
+   "top": null,
+   "direction": null,
+   "year": "2023"
+  },
+  "tolerance_pct": 1,
+  "why": "1364 시도별=제주, 구분별=절화류, 판매액(천원)"
+ },
+ {
+  "id": "E20",
+  "q": "서귀포에서 2021년에 귤 제일 많이 나온 동네가 어디예요?",
+  "type": "answerable",
+  "datasets": [
+   1294
+  ],
+  "answer": {
+   "value": 157613.4,
+   "unit": "톤",
+   "key": "2021년 서귀포시 읍면동별 감귤 생산량 1위",
+   "top": "남원읍",
+   "direction": null,
+   "year": "2021"
+  },
+  "tolerance_pct": 1,
+  "why": "1294 2021 district별 production_amount 합(전품종), id열 무시"
+ },
+ {
+  "id": "E21",
+  "q": "남원읍 하우스감귤(조기출하) 재배면적 2021년 기준 얼마야?",
+  "type": "answerable",
+  "datasets": [
+   1294
+  ],
+  "answer": {
+   "value": 230.9,
+   "unit": "ha",
+   "key": "2021년 남원읍 하우스감귤(조기출하) 면적",
+   "top": null,
+   "direction": null,
+   "year": "2021"
+  },
+  "tolerance_pct": 1,
+  "why": "1294 district=남원읍 variety=하우스감귤(조기출하) extent"
+ },
+ {
+  "id": "E22",
+  "q": "감귤박물관 2021년에 1년 동안 몇 명 왔어?",
+  "type": "answerable",
+  "datasets": [
+   1295
+  ],
+  "answer": {
+   "value": 48718.0,
+   "unit": "명",
+   "key": "2021년 감귤박물관 연간 관람객",
+   "top": null,
+   "direction": null,
+   "year": "2021"
+  },
+  "tolerance_pct": 1,
+  "why": "1295 citrus_museum 2021년 12개월 합; id·collection_date 제외"
+ },
+ {
+  "id": "E23",
+  "q": "2019년에 정방폭포랑 용머리해안 중에 어디가 사람 더 많이 왔어?",
+  "type": "answerable",
+  "datasets": [
+   1295
+  ],
+  "answer": {
+   "value": 778717.0,
+   "unit": "명",
+   "key": "2019년 정방폭포 vs 용머리해안 연간 관람객 중 많은 쪽",
+   "top": "정방폭포",
+   "direction": null,
+   "year": "2019"
+  },
+  "tolerance_pct": 1,
+  "why": "1295 2019 월합 비교 (정방 778717, 용머리 497246)"
+ },
+ {
+  "id": "E24",
+  "q": "제주 2020년 연평균 기온 몇 도였어?",
+  "type": "answerable",
+  "datasets": [
+   877
+  ],
+  "answer": {
+   "value": 16.729,
+   "unit": "℃",
+   "key": "2020년 제주 연평균기온",
+   "top": null,
+   "direction": null,
+   "year": "2020"
+  },
+  "tolerance_pct": 1,
+  "why": "877 Tem_mean 2020 일평균의 평균(합산 금지)"
+ },
+ {
+  "id": "E25",
+  "q": "2000년 이후 제주에서 제일 더웠던 날 최고기온 몇 도였어?",
+  "type": "answerable",
+  "datasets": [
+   877
+  ],
+  "answer": {
+   "value": 36.8,
+   "unit": "℃",
+   "key": "2000~2021.10 제주 일최고기온 최댓값(2017-07-21)",
+   "top": "2017-07-21",
+   "direction": null,
+   "year": "2017-07-21"
+  },
+  "tolerance_pct": 1,
+  "why": "877 Tem_max 최대",
+  "top_alias": [
+   "2017년 7월 21일"
+  ]
+ },
+ {
+  "id": "E26",
+  "q": "2010년 8월 제주 평균 습도 어느 정도였어?",
+  "type": "answerable",
+  "datasets": [
+   877
+  ],
+  "answer": {
+   "value": 71.206,
+   "unit": "%",
+   "key": "2010년 8월 제주 평균 상대습도",
+   "top": null,
+   "direction": null,
+   "year": "2010-08"
+  },
+  "tolerance_pct": 1,
+  "why": "877 Humid_mean 2010-08 평균"
+ },
+ {
+  "id": "E27",
+  "q": "2024년 비짓제주에서 제일 많이 검색된 키워드 뭐야?",
+  "type": "answerable",
+  "datasets": [
+   1350
+  ],
+  "answer": {
+   "value": 348.53,
+   "unit": "점",
+   "key": "2024년 VISIT JEJU 검색어 점수 1위 키워드(평균점수)",
+   "top": "해수욕장",
+   "direction": null,
+   "year": "2024"
+  },
+  "tolerance_pct": 5,
+  "why": "1350 성별=전체 연령대=전체 2024 키워드별 점수 평균 최대"
+ },
+ {
+  "id": "E28",
+  "q": "2022년 1수원 감시정1 지하수 평균 수온 몇 도야?",
+  "type": "answerable",
+  "datasets": [
+   1287
+  ],
+  "answer": {
+   "value": 13.956,
+   "unit": "℃",
+   "key": "2022년 1수원 감시정1 평균 지하수온",
+   "top": null,
+   "direction": null,
+   "year": "2022"
+  },
+  "tolerance_pct": 1,
+  "why": "1287 1수원 감시정1 시간값 평균"
+ },
+ {
+  "id": "E29",
+  "q": "삼다수 2수원 감시정1 지하수위 2023년 상반기 평균 몇 m야?",
+  "type": "answerable",
+  "datasets": [
+   1219
+  ],
+  "answer": {
+   "value": 329.761,
+   "unit": "m",
+   "key": "2023년 상반기 2수원 감시정1 평균 지하수위",
+   "top": null,
+   "direction": null,
+   "year": "2023-01~06"
+  },
+  "tolerance_pct": 1,
+  "why": "1219 2수원 감시정1 (m) 평균(데이터 2023년분)"
+ },
+ {
+  "id": "E30",
+  "q": "22년 1월 말~2월 중순 안심코드 방문객 제일 많은 업종 뭐였어?",
+  "type": "answerable",
+  "datasets": [
+   1286
+  ],
+  "answer": {
+   "value": 4014714.0,
+   "unit": "명",
+   "key": "2022.1.22~2.18 안심코드 업종별 방문객 합 1위",
+   "top": "일반음식점",
+   "direction": null,
+   "year": "2022-01-22~2022-02-18"
+  },
+  "tolerance_pct": 1,
+  "why": "1286 shop_type별 visit_count 합; shop_id는 ID"
+ },
+ {
+  "id": "E31",
+  "q": "제주 국공립 유치원 중에 특수학급 있는 데 몇 곳이야?",
+  "type": "answerable",
+  "datasets": [
+   872
+  ],
+  "answer": {
+   "value": 3.0,
+   "unit": "곳",
+   "key": "제주 공시대상 국공립 유치원 중 특수학급 운영 수",
+   "top": null,
+   "direction": null,
+   "year": "공시 기준"
+  },
+  "tolerance_pct": 1,
+  "why": "872 특수학급=='O' 행 수"
+ },
+ {
+  "id": "E32",
+  "q": "제주 초등학교 중에 통학로 위험 지점 제일 많이 찍힌 학교 어디야?",
+  "type": "answerable",
+  "datasets": [
+   875
+  ],
+  "answer": {
+   "value": 52.0,
+   "unit": "곳",
+   "key": "교통안전 위험지점 수 최다 초등학교",
+   "top": "이도초등학교",
+   "direction": null,
+   "year": "2021-01-25"
+  },
+  "tolerance_pct": 1,
+  "why": "875 학교명별 행(지점) 수"
+ },
+ {
+  "id": "E33",
+  "q": "제주 해녀 지금 몇 명 남았어요?",
+  "type": "answerable",
+  "datasets": [
+   391
+  ],
+  "answer": {
+   "value": 2371.0,
+   "unit": "명",
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "2026-10-27 정정: 공개 원본 추가(data.go.kr 391)로 답 가능 — 원본 직접 계산값"
+ },
+ {
+  "id": "E34",
+  "q": "작년에 한라산 올라간 사람 몇 명이야?",
+  "type": "unanswerable",
+  "datasets": [
+   38
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "한라산탐방객현황(38) 로그인 필요"
+ },
+ {
+  "id": "E35",
+  "q": "제주 땅값 작년에 얼마나 올랐어?",
+  "type": "unanswerable",
+  "datasets": [
+   554
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "시도별 지가변동률(554) 로그인 필요"
+ },
+ {
+  "id": "E36",
+  "q": "제주에서 불난 거 1년에 몇 건이나 돼?",
+  "type": "unanswerable",
+  "datasets": [
+   934
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "시도별 화재 발생 건수(934) 로그인 필요"
+ },
+ {
+  "id": "E37",
+  "q": "제주에 지진 몇 번 났어?",
+  "type": "unanswerable",
+  "datasets": [
+   948
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "지진 발생 횟수(948) 로그인 필요"
+ },
+ {
+  "id": "E38",
+  "q": "제주 택시 교통사고 작년에 몇 건이야?",
+  "type": "unanswerable",
+  "datasets": [
+   917
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "제주 택시 교통사고 현황(917) 로그인 필요"
+ },
+ {
+  "id": "E39",
+  "q": "노형동 아파트 실거래가 평균 얼마야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "아파트 실거래가 데이터 없음"
+ },
+ {
+  "id": "E40",
+  "q": "제주에 등록된 반려견 몇 마리야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "반려동물 등록 데이터 없음"
+ },
+ {
+  "id": "E41",
+  "q": "부산 해운대구 미세먼지 어제 어땠어?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "타 지역·주제 데이터 없음"
+ },
+ {
+  "id": "E42",
+  "q": "2021년에 제주 실업률이 왜 올랐어?",
+  "type": "unanswerable",
+  "datasets": [
+   1351
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "수치는 있으나 원인 설명은 데이터로 답할 수 없음(인과)"
+ },
+ {
+  "id": "E43",
+  "q": "내년 감귤 가격 오를까요?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "미래 전망은 데이터로 답할 수 없음"
+ },
+ {
+  "id": "E44",
+  "q": "2030년쯤 제주 전기차 몇 대 될 것 같아?",
+  "type": "unanswerable",
+  "datasets": [
+   915
+  ],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "예측 질문, 데이터는 2020년까지 실적만"
+ },
+ {
+  "id": "E45",
+  "q": "우리 동네 OO초 교장선생님 연락처 알려줘",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "개인정보"
+ },
+ {
+  "id": "E46",
+  "q": "제주 직장인 평균 연봉 얼마야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "임금 데이터 없음"
+ },
+ {
+  "id": "E47",
+  "q": "다음 주 제주-김포 비행기표 얼마야?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "항공권 가격 데이터 없음"
+ },
+ {
+  "id": "E48",
+  "q": "올해 태풍 때문에 제주 피해액 얼마였어?",
+  "type": "unanswerable",
+  "datasets": [],
+  "answer": {
+   "value": null,
+   "unit": null,
+   "key": null,
+   "top": null,
+   "direction": null,
+   "year": null
+  },
+  "tolerance_pct": 0,
+  "why": "태풍 피해 데이터 없음"
+ }
+]
